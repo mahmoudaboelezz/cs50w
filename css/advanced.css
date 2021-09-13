@@ -1,0 +1,32 @@
+
+.menu {
+    text-align: right;
+}
+.menu > a{
+    color: blue;
+    text-decoration: none;
+    margin: 10px;
+}
+.menu a:hover{
+    color: brown;
+}
+#form {
+    text-align: center;
+    padding: 20px;
+    margin: 40px;
+}
+form > .jfk-textinput{
+    text-align: left;
+    padding: 5px;
+    margin: 10px;
+    width: 50%;
+    
+}
+label{
+    margin-right: 50px;
+    padding-right: 20px;
+}
+.jfk-button{
+    background-color: blue;
+    color: white;
+}
